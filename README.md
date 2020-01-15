@@ -1,7 +1,11 @@
-# Code Institute
+# Rosie's Resume
 
-Welcome OrlaBr,
+A project on bootstrap and interactive webpages, part of Code Institute 'Full Stack' bootcamp
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+#### Tools Used
+ - HTML
+ - CSS
+ - Bootstrap
+ - Javascript
+ - jQuery
+ - APIs
